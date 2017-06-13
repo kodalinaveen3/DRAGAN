@@ -1,9 +1,14 @@
 # DRAGAN (Deep Regret Analytic Generative Adversarial Networks)
 
-https://arxiv.org/abs/1705.07215
+Link to our paper - https://arxiv.org/abs/1705.07215
+Pytorch implementation (thanks!) - https://github.com/jfsantos/dragan-pytorch
 
 **A stable algorithm for GAN training. Our main contributions are:**
 1. We introduce regret minimization to justify why simultaneous GD can work well in GANs. Simple improvements like historical averaging, decaying learning rate can be used for better convergence (read 'Online Gradient Descent' paper by Zinkevich et al. for more) 
+
+https://arxiv.org/abs/1706.03269 
+(Recent paper also proposing regret minimization in GANs!)
+
 2. Given the fact that RM is a perfectly good dynamics to solve games in convex settings, we questioned why mode collapse happens. We hypothesize that basins of attraction of spurious local Nash equilibria might be the reason. To mitigate this, we smoothen D (and thus payoffs) using regularization penalty and show that it works better than the vanilla procedure. By no means did we try to experiment exhaustively to find the best way for implementing this idea (we used one simple algorithm/heuristic to demonstrate that our idea works), we leave it to future works to build a good algorithm.
 
 **A new perspective on GAN game (implicit in our paper):**
