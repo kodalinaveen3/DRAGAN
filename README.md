@@ -42,7 +42,7 @@ I agree that new non-convex areas might result from using two-sided penalties, b
 https://www.reddit.com/r/MachineLearning/comments/6da7pu/170507215_how_to_train_your_dragan_training/
 
 **We had an interesting discussion about connections between LSGAN, improved WGAN and DRAGAN (Ian Goodfellow and Martin Arjovsky were kind enough to give their comments). Check it out at:**
-https://www.facebook.com/kodali.naveen.90
+https://www.facebook.com/kodali.naveen.90/posts/1047257878740881
 
 **To summarize, recently introduced regularized class of GANs which improve stability can be classified into two types:**
 
