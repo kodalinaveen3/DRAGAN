@@ -4,6 +4,13 @@ Link to our paper - https://arxiv.org/abs/1705.07215
 
 Pytorch implementation (thanks!) - https://github.com/jfsantos/dragan-pytorch
 
+**Comparing improved WGAN and DRAGAN**
+http://lernapparat.de/more-improved-wgan/
+https://github.com/pfnet-research/chainer-gan-lib
+
+**Making Anime characters with DRAGAN**
+https://makegirlsmoe.github.io/assets/pdf/technical_report.pdf
+
 **A stable algorithm for GAN training. Our main contributions are:**
 1. We introduce regret minimization to justify why simultaneous GD can work well in GANs. Simple improvements like historical averaging, decaying learning rate can be used for better convergence (read 'Online Gradient Descent' paper by Zinkevich et al. for more) 
 
