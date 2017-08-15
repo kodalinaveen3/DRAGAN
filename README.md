@@ -7,6 +7,7 @@ Pytorch implementation (thanks!) - https://github.com/jfsantos/dragan-pytorch
 **Comparing improved WGAN and DRAGAN**
 
 http://lernapparat.de/more-improved-wgan/
+
 https://github.com/pfnet-research/chainer-gan-lib
 
 **Making Anime characters with DRAGAN**
