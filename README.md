@@ -4,11 +4,19 @@ Link to our paper - https://arxiv.org/abs/1705.07215
 
 Pytorch implementation (thanks!) - https://github.com/jfsantos/dragan-pytorch
 
-**Comparing improved WGAN and DRAGAN**
+**Code for comparing improved WGAN and DRAGAN**
 
 http://lernapparat.de/more-improved-wgan/
 
 https://github.com/pfnet-research/chainer-gan-lib
+
+https://github.com/khanrc/tf.gans-comparison
+
+https://github.com/hwalsuklee/tensorflow-generative-model-collections
+
+https://github.com/Ujitoko/GAN
+
+https://github.com/Aixile/chainer-gan-experiments
 
 **Making Anime characters with DRAGAN**
 
