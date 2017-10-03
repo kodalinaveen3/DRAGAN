@@ -4,6 +4,10 @@ Link to our paper - https://arxiv.org/abs/1705.07215
 
 Pytorch implementation (thanks!) - https://github.com/jfsantos/dragan-pytorch
 
+**Paper exploring issues with wgan-gp that we raised and showing local perturbation improves stability**
+
+https://arxiv.org/pdf/1709.08894.pdf
+
 **Code for comparing improved WGAN and DRAGAN**
 
 http://lernapparat.de/more-improved-wgan/
