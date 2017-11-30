@@ -10,6 +10,14 @@ Pytorch implementation (thanks!) - https://github.com/jfsantos/dragan-pytorch
 3. Tune lambda if necessary, this has the usual meaning of regularization intensity.
 4. If your results are still bad, go back to Step 1 and try a different architecture+objective.
 
+**Interesting discussion with Ian Goodfellow and Martin Arjovsky on why GANs are unstable and where improvements come from**
+
+https://www.facebook.com/kodali.naveen.90/posts/1047257878740881
+
+An interesting new paper by Fedus et.al came out following this (Many paths to equilibria) 
+
+https://arxiv.org/abs/1710.08446
+
 **Some of the repositories that would be helpful and which helped us (big thanks!):**
 
 https://github.com/igul222/improved_wgan_training
