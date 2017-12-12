@@ -6,7 +6,7 @@ Pytorch implementation (thanks!) - https://github.com/jfsantos/dragan-pytorch
 
 **Procedure (to use our algorithm):**
 1. Pick your favorite architecture, objective function for the game.
-2. Tune the hyperparameter 'c' which decides the size of local regions. Our intuition is that small values extract better performance from a given architecture due to relaxed restrictions while slightly larger values give more stability. Be careful to set it appropriately by taking into account your domain range and making sure that perturbation don't lie on data manifold.
+2. Tune the hyperparameter 'c' which decides the size of local regions. Our intuition is that small values extract better performance from a given architecture due to relaxed restrictions while slightly larger values give more stability. Be careful to set it appropriately by taking into account your domain range and making sure that perturbations don't lie on the data manifold.
 3. Tune lambda if necessary, this has the usual meaning of regularization intensity. Set 'k' to be 1.
 4. If your results are still bad, go back to Step 1 and try a different architecture+objective.
 
